@@ -1,0 +1,30 @@
+#warrant number: ATB736973
+#The call logs are information obtained from the internet service porviders (ISPs). Look for suspecious call timings (something that wont be possible normally.)
+
+
+#Dectective's tip: Seems like Aarav was trying to communicate something. Try noticing the 1st digit of the suspecious numbers. 
+
+#Dectective's tip: You are looking for a 3 number combination. Aarav might have included extra numbers. Try Eliminating numbers that dont seem from India.
+
+
+Call #,Date,Time,Caller,Caller No.,Receiver,Receiver No.,Duration
+13,2024-07-08,12:10 PM,Aarav Khanna,7991051689,Dr. Vishal Dey,8007716146,03:10
+4,2024-07-09,09:10 AM,Sahil Wadhwa,9876235432,Zoya Fernandez,9123446572,01:50
+20,2024-07-10,11:00 AM,Zoya Fernandez,9123446572,Principal Arjun Jain,9001143221,02:25
+10,2024-07-11,10:00 PM,Sahil Wadhwa,9876235432,Dr. Vishal Dey,8007716146,01:30
+11,2024-07-12,08:25 AM,Principal Arjun Jain,9001143221,Zoya Fernandez,9123446572,03:20
+21,2024-07-22,11:58 PM,Aarav Khanna,7991051689,Sahil Wadhwa,9876235432,00:00
+6,2024-07-13,09:05 AM,Dr. Vishal Dey,8007716146,Principal Arjun Jain,9001143221,04:45
+22,2024-07-22,11:59 PM,Aarav Khanna,7991051689,Dr. Vishal Dey,8007716146,00:00
+12,2024-07-15,09:45 AM,Zoya Fernandez,9123446572,Sahil Wadhwa,9876235432,02:40
+8,2024-07-22,07:30 AM,Zoya Fernandez,9123446572,Aarav Khanna,1991051689,00:00
+15,2024-07-16,03:30 PM,Dr. Vishal Dey,8007716146,Zoya Fernandez,9123446572,02:20
+19,2024-07-17,09:30 AM,Dr. Vishal Dey,8007716146,Sahil Wadhwa,9876235432,03:40
+23,2024-07-22,12:00 AM,Aarav Khanna,7991051689,Unknown Contact,6789034789,00:00
+5,2024-07-18,06:50 AM,Zoya Fernandez,9123446572,Principal Arjun Jain,9001143221,03:05
+17,2024-07-18,08:15 PM,Sahil Wadhwa,9876235432,Zoya Fernandez,9123446572,03:00
+2,2024-07-19,07:55 AM,Zoya Fernandez,9123446572,Sahil Wadhwa,9876235432,02:45
+1,2024-07-20,07:20 AM,Principal Arjun Jain,9001143221,Dr. Vishal Dey,8007716146,04:12
+14,2024-07-20,07:40 AM,Sahil Wadhwa,9876235432,Principal Arjun Jain,9001143221,02:55
+3,2024-07-21,08:40 AM,Aarav Khanna,7991051689,Sahil Wadhwa,9876235432,05:30
+
