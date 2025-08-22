@@ -1,0 +1,119 @@
+
+
+WARRANT NUMBER: ATB736973.
+
+This is the emails extracted from various spruces. The mail-ids  are mentioned at the beginning of the emails. There might be a clue hidden in these texts. Please decode it and find a “3 letter” keyword. 
+
+<vishaldey@sati.edu.in> 
+From: Dr. Vishal Dey
+To: Aarav Khanna
+Subject: Enough.
+Aarav,
+You’ve been warned before. There are areas even brilliant minds like yours shouldn’t trespass.
+What you found on the Q-Net isn’t your concern. Shut it down. Delete it.
+Walk away while you still can.
+-- Dr.Dey
+
+
+
+<vishaldey@sati.edu.in> 
+From: Dr. Vishal Dey
+To: Aarav Khanna
+Subject: What did you do?
+Aarav,
+Did you alter the backups again? My access logs are… wrong. Someone tampered with the ’13
+incident logs. Was that you?
+This isn’t clever anymore. You’re digging into things that could hurt people — including yourself.
+Talk to me, kid. Please.
+-- Dr. Dey
+
+<arjunjain@sati.edu.in>
+From: Principal Arjun Jain
+To: Aarav Khanna
+Subject: RE: Bullying Complaint
+Aarav,
+I’ve reviewed your file. I don’t see any formal complaint submitted through the right channels.
+You need to follow protocol, not send me encrypted logs and unverified names.
+For your own good, focus on your academics.
+-- A.J.
+
+<arjunjain@sati.edu.in>
+From: Principal Arjun Jain
+To: Aarav Khanna
+Subject: Last warning.
+This is not a game. You’ve accessed systems you had no clearance for.
+You are not an investigator.
+Delete what you’ve found, or this goes far beyond school suspension.
+-- A.J.
+
+
+<sahilwad@sati.edu.in>
+From: Sahil Wadhwa
+To: Aarav Khanna
+Subject: Bro what is this?
+The file you sent me — it’s incomplete. And encrypted to hell.
+Are you okay? You’re not replying.
+Also… Deadpool/404’s node tripped last night. That shouldn’t be possible unless someone ran the
+“Judgement Day” script.
+That was your thing, not mine.
+You still in?
+-- Sahil.
+
+<sahilwad@sati.edu.in>
+From: Sahil Wadhwa
+To: Aarav Khanna
+Subject: Talk to me man
+Aarav.
+This is getting messed up. You’re acting like you're being watched.
+You’re leaving stuff half-written. Half-uploaded.
+You’re scaring me, man. What are you planning?-- Sahil.
+
+<zoyabest@sati.edu.in>
+From: Zoya Fernandez
+To: Aarav Khanna
+Subject: Aarav, talk to me.
+You left that note in the compiler logs. “It wasn’t a virus. It was a mirror.”
+What the hell does that mean?
+Are you okay? Did someone threaten you again? I don’t know what game you're playing.
+But if this is your idea of revenge or some dark genius arc — stop.
+-- Zoya.
+
+
+<zoyabest@sati.edu.in>
+From: Zoya Fernandez
+To: Aarav Khanna
+Subject: Why me?
+Aarav,
+You’re shutting everyone out. But you still pinged me during the bot test last week.
+Why are you leaving me these breadcrumbs? Why me?
+Please just tell me what’s going on.
+-- Zoya.
+
+<aarav@sati.edu.in>
+From: Aarav Khanna
+To: Zoya Fernandez
+Subject: Re: Why me?
+Because you listened once.
+And because you still might.
+-- A.
+
+
+<aarav@sati.edu.in>
+From: Aarav Khanna
+To: Zoya Fernandez
+Subject: Re: Talk to me
+The mirror reflects only what it’s given.
+I gave them everything. They broke it.
+Check the timestamps. Start from 03:16.
+-- A.
+
+<aarav@sati.edu.in>
+From: Aarav Khanna
+To: Zoya Fernandez
+Subject: IM RELYING ON YOU TO DECODE THIS!!!
+“They locked me in,
+But I left the KEY.
+Not in code —
+but in poetry.
+Three letters long
+— A.
