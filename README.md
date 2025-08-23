@@ -13,7 +13,7 @@ CALL_LOGS: 123
 CCTV_LOGS: RED
 EMAILS: PES
 
-the password that you'll need to give to AGENT_007 IS: /~123~red~pes/~(the letters should be lower_case) 
+the password that you'll need to give to AGENT_007 IS: /~123/~red/~pes/~(the letters should be lower_case) 
 
 ALL THE BEST!!! 
 ____________________________________________________________________________________________________________________________________________________________
