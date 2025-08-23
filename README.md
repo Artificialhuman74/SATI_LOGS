@@ -2,7 +2,7 @@
 These are the files which contain the clues. try decoding them 😁<br>
 
 MAIN AGENDA: <br>
-Aomng the 3 FILES (call_logs, cctv_logs and emails) try to find a 3 letter or a 3 number combinaitons.<br>
+Aomng the 3 FILES (call_logs, cctv_logs and emails) try to find a 3 letter or 3 number combinaitons.<br>
 why? THESE are the parts of the password that you need to give to the chatbot (AGENT_007) <br>
 
 Your password bits must start with ~ and end with ~ <br>
