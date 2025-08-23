@@ -1,7 +1,18 @@
 # SATI_LOGS
 These are the files which contain the clues. try decoding them 😁
 
+MAIN AGENDA: 
+Aomng the 3 FILES (call_logs, cctv_logs and emails) try to find a 3 letter or a 3 number combinaitons. 
+why? THESE are the parts of the password that you need to give to the chatbot (AGENT_007) 
 
+Your password bits must start with ~ and end with ~ 
+
+eg: 
+if the password combination you found was:
+CALL_LOGS: 
+
+
+____________________________________________________________________________________________________________________________________________________________
 ABOUT CALL LOGS (TIPS) : 
 
 warrant number: ATB736973
@@ -10,3 +21,4 @@ The call logs are information obtained from the internet service porviders (ISPs
 Dectective's tip: Seems like Aarav was trying to communicate something. Try noticing the 1st digit of the suspecious numbers. 
 
 Dectective's tip: You are looking for a 3 number combination. Aarav might have included extra numbers. Try Eliminating numbers that
+____________________________________________________________________________________________________________________________________________________________
