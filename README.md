@@ -5,15 +5,15 @@ MAIN AGENDA:
 Aomng the 3 FILES (call_logs, cctv_logs and emails) try to find a 3 letter or a 3 number combinaitons. 
 why? THESE are the parts of the password that you need to give to the chatbot (AGENT_007) 
 
-Your password bits must start with ~ and end with ~ 
+Your password bits must start with ~ and end with ~ \n
 
-exmaple: 
-if the password combination you found was:
-CALL_LOGS: 123
-CCTV_LOGS: RED
-EMAILS: PES
+exmaple: \n
+if the password combination you found was:\n
+CALL_LOGS: 123\n
+CCTV_LOGS: RED\n
+EMAILS: PES\n
 
-the password that you'll need to give to AGENT_007 IS: \~123\~red\~pes\~(the letters should be lower_case) 
+the password that you'll need to give to AGENT_007 IS: \~123\~red\~pes\~(the letters should be lower_case)\n
 
 ALL THE BEST!!! 
 ____________________________________________________________________________________________________________________________________________________________
