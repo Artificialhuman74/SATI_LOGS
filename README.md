@@ -24,5 +24,5 @@ The call logs are information obtained from the internet service porviders (ISPs
 
 Dectective's tip: Seems like Aarav was trying to communicate something. Try noticing the 1st digit of the suspecious numbers. 
 
-Dectective's tip: You are looking for a 3 number combination. Aarav might have included extra numbers. Try Eliminating numbers that
+Dectective's tip: You are looking for a 3 number combination. Aarav might have included extra numbers. Try Eliminating numbers that dont seem from India
 ____________________________________________________________________________________________________________________________________________________________
