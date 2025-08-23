@@ -7,11 +7,15 @@ why? THESE are the parts of the password that you need to give to the chatbot (A
 
 Your password bits must start with ~ and end with ~ 
 
-eg: 
+exmaple: 
 if the password combination you found was:
-CALL_LOGS: 
+CALL_LOGS: 123
+CCTV_LOGS: RED
+EMAILS: PES
 
+the password that you'll need to give to AGENT_007 IS: ~123~red~pes~ (the letters should be lower_case) 
 
+ALL THE BEST!!! 
 ____________________________________________________________________________________________________________________________________________________________
 ABOUT CALL LOGS (TIPS) : 
 
