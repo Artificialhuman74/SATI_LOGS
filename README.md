@@ -1,21 +1,21 @@
 # SATI_LOGS
-These are the files which contain the clues. try decoding them 😁
+These are the files which contain the clues. try decoding them 😁<br>
 
-MAIN AGENDA: 
-Aomng the 3 FILES (call_logs, cctv_logs and emails) try to find a 3 letter or a 3 number combinaitons.␣␣ 
-why? THESE are the parts of the password that you need to give to the chatbot (AGENT_007) ␣␣
+MAIN AGENDA: <br>
+Aomng the 3 FILES (call_logs, cctv_logs and emails) try to find a 3 letter or a 3 number combinaitons.<br>
+why? THESE are the parts of the password that you need to give to the chatbot (AGENT_007) <br>
 
 Your password bits must start with ~ and end with ~ <br>
 
-exmaple: ␣␣
+exmaple: <br>
 if the password combination you found was: <br>
 CALL_LOGS: 123<br>
 CCTV_LOGS: RED<br>
-EMAILS: PES␣␣
+EMAILS: PES<br>
 
-the password that you'll need to give to AGENT_007 IS: \~123\~red\~pes\~(the letters should be lower_case)␣␣
+the password that you'll need to give to AGENT_007 IS: \~123\~red\~pes\~(the letters should be lower_case)<br>
 
-ALL THE BEST!!! ␣␣
+ALL THE BEST!!! <br>
 ____________________________________________________________________________________________________________________________________________________________
 ABOUT CALL LOGS (TIPS) : 
 
